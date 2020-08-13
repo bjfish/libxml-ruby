@@ -10,3 +10,5 @@ script:
 
 rvm:
   - 2.5.0
+  - truffleruby
+  - truffleruby-head
